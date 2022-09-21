@@ -1,5 +1,0 @@
-This is a new file to commit and push to origin (github).
-
-
-
-If I change this file, commit and push. What will happen with branch that I've just deleted?
