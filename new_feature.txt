@@ -1,3 +1,4 @@
 Oi, este é um arquivo criado na branch feature!
 
 Nova linha!
+Outra linha (terceira)
